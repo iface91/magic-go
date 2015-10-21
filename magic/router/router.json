@@ -1,0 +1,11 @@
+{
+	// "post/#id#": "posts"
+	"define":{
+		"id":'\d+',
+		"year": "20\d{2}",
+		"month":"0\d|1[0-2]"
+	},
+	"router"{
+		"post/#id#": "posts"
+	}
+}
